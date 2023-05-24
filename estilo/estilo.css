@@ -22,6 +22,10 @@ body{
     
 }
 /* Cabeçalho */
+main{
+    min-width: 280px;
+    
+}
 header{
     background-color: black;
     padding: 40px;
